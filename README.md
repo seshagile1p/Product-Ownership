@@ -1,6 +1,4 @@
-# Product Owner
-
-## Inhaltsverzeichnis
+# Inhaltsverzeichnis
 - [Was macht ein Product Owner?](#Was-macht-ein-product-owner-?)
 
 # Was macht ein Product Owner?
