@@ -12,4 +12,3 @@ Und ja – eigentlich ist es der coolste Job im Scrum.
 
 
 ## Richtig priorisieren
-
